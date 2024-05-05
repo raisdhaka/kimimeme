@@ -1,0 +1,42 @@
+body{
+  background-image: linear-gradient(to right, #EF9F9F , #FAD4D4);
+  font-family: "Margarine", sans-serif !important;
+  font-weight: 400;
+  font-style: normal; 
+}
+
+.title{
+  font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+  color: #fff;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #EF9F9F;
+}
+
+.imgholder{
+  background-image: url('img/back01.png');
+  background-repeat: no-repeat;
+    max-width: 300px;
+    background-size: contain;
+}
+.previewSide{
+  border-right: 8px solid #fff;
+    
+}
+.btn-reset{
+  background-color: #F47C7C !important;
+  color: #fff !important;
+  width: 90%;
+}
+
+.btn-dl{
+  background-color: #F47C7C !important;
+  color: #fff !important;
+}
+.btn-rm{
+  background-color: #fff !important;
+  color:#F47C7C !important;
+  
+}
